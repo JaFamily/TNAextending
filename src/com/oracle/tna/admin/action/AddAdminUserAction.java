@@ -42,7 +42,9 @@ public class AddAdminUserAction extends ActionSupport {
 			key = "error.login.username.required", 
 			trim = true)
 	public String getAdminUserName() {
+		
 		return adminUserName;
+		
 	}
 
 	public void setAdminUserName(String adminUserName) {
