@@ -22,6 +22,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   </head>
   
   <body>
+<<<<<<< HEAD
     This is my JSP page. 添加huhuhaha<br>
 	<h1>添加huhuhaha</h1>
 	<h1>添加huhuhaha</h1>
@@ -30,5 +31,8 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 	<h1>添加huhuhaha</h1><h1>添加huhuhaha</h1><h1>添加huhuhaha</h1>
 	<h1>添加huhuhaha</h1><h1>添加huhuhaha</h1>
 	
+=======
+    This is my JSP page.bullshit <br>
+>>>>>>> origin/master
   </body>
 </html>
