@@ -23,7 +23,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   
   <body>
 <<<<<<< HEAD
-    This is my JSP page. 添加huhuhaha<br>
+    This is my JSP page. 添加huhuhaha<br>在这一行后加一行添加huhuhaha
 	<h1>添加huhuhaha</h1>
 	<h1>添加huhuhaha</h1>
 	<h1>添加huhuhaha</h1>
