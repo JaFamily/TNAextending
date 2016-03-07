@@ -23,5 +23,10 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   <body>
     This is my JSP page.bullshit <br>
     what are U talking about!<br>
+>>>>>>> origin/master
+1
+1
+1
+1
   </body>
 </html>
